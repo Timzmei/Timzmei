@@ -7,7 +7,7 @@
 - 📫 Как со мной связаться: mail@guliev-timur.ru
 
 
-![Profile views](https://gpvc.arturio.dev/[Timzmei])
+![Profile views](https://gpvc.arturio.dev/Timzmei)
 
 <!---
 ### Hi there 👋
