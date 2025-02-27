@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="ff44883e-f642-bcb2-894b-16b3d25a3f0b">
-    <mxGraphModel dx="1912" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -482,6 +482,11 @@
         <mxCell id="4UaCHvUgQ8AZ8X4L8l5z-101" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1520" y="620" width="40" height="20" as="geometry" />
         </mxCell>
+        <UserObject label="Конечное событие" placeholders="1" name="Variable" id="4UaCHvUgQ8AZ8X4L8l5z-102">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=21;" vertex="1" parent="1">
+            <mxGeometry x="1550" y="670" width="160" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
